@@ -7,7 +7,7 @@
 # 不混淆 WebView 的 JS 接口
 -keepattributes *JavascriptInterface*
 # 不混淆 WebView 的类的所有的内部类
--keepclassmembers class com.hjq.demo.ui.activity.BrowserActivity$*{
+-keepclassmembers class com.pch.demo.ui.activity.BrowserActivity$*{
     *;
 }
 # 不混淆 WebChromeClient 中的 openFileChooser 方法
@@ -58,6 +58,6 @@
 -dontwarn org.conscrypt.**
 
 # 不混淆这个包下的字段名
--keepclassmembernames class com.hjq.demo.http.** {
+-keepclassmembernames class com.pch.demo.http.** {
     <fields>;
 }
