@@ -20,7 +20,6 @@ import com.hjq.http.listener.HttpCallback;
 
 /**
  *    author : 潘成花
- *    
  *    time   : 2018/10/18
  *    desc   : 闪屏界面
  */
