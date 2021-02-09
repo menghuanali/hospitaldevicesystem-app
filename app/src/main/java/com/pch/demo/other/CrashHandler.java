@@ -7,8 +7,8 @@ import androidx.annotation.NonNull;
 import com.pch.demo.ui.activity.CrashActivity;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *
  *    time   : 2020/02/03
  *    desc   : Crash 处理类
  */

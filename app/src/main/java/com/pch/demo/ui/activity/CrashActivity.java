@@ -43,9 +43,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/06/27
+ *    author : 潘成花
+ *    
+ *    time   : 2020/06/27
  *    desc   : 崩溃捕捉界面
  */
 public final class CrashActivity extends MyActivity {

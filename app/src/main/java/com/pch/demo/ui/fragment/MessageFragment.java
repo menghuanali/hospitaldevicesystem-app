@@ -17,8 +17,8 @@ import com.hjq.permissions.XXPermissions;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : 项目框架使用示例
  */

@@ -19,9 +19,9 @@ import org.aspectj.lang.reflect.MethodSignature;
 import java.util.concurrent.TimeUnit;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/12/06
+ *    author : 潘成花
+ *    
+ *    time   : 2020/12/06
  *    desc   : Debug 日志打印
  */
 @Aspect

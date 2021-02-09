@@ -5,9 +5,9 @@ import android.os.Looper;
 import android.os.SystemClock;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/09/15
+ *    author : 潘成花
+ *    
+ *    time   : 
  *    desc   : Handler 意图处理
  */
 public interface HandlerAction {

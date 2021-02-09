@@ -136,7 +136,7 @@ dependencies {
     // ViewPager 指示器：https://github.com/romandanylyk/PageIndicatorView
     implementation 'com.romandanylyk:pageindicatorview:1.0.3'
 
-    // Bugly 异常捕捉：https://bugly.qq.com/docs/user-guide/instruction-manual-android/?v=20190418140644
+    // Bugly 异常捕捉：https://bugly.qq.com/docs/user-guide/instruction-manual-android/?v=20200418140644
     implementation 'com.tencent.bugly:crashreport:3.1.9'
     implementation 'com.tencent.bugly:nativecrashreport:3.7.1'
 

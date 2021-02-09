@@ -24,8 +24,8 @@ import com.scwang.smartrefresh.layout.api.RefreshLayout;
 import com.scwang.smartrefresh.layout.listener.OnRefreshListener;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : 浏览器界面
  */

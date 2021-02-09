@@ -20,9 +20,9 @@ import com.pch.widget.layout.SettingBar;
 import java.io.File;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/04/20
+ *    author : 潘成花
+ *    
+ *    time   : 2020/04/20
  *    desc   : 个人资料
  */
 public final class PersonalDataActivity extends MyActivity {

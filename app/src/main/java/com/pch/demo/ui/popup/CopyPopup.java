@@ -6,9 +6,9 @@ import com.pch.base.BasePopupWindow;
 import com.pch.demo.R;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/10/18
+ *    author : 潘成花
+ *    
+ *    time   : 2020/10/18
  *    desc   : 可进行拷贝的副本
  */
 public final class CopyPopup {

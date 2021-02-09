@@ -9,9 +9,9 @@ import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/10/23
+ *    author : 潘成花
+ *    
+ *    time   : 2020/10/23
  *    desc   : 参数意图
  */
 public interface BundleAction {

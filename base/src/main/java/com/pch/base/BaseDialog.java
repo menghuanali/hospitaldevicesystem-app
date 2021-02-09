@@ -49,8 +49,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/11/24
  *    desc   : Dialog 基类
  */

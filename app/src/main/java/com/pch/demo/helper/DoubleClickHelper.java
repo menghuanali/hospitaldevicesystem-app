@@ -3,8 +3,8 @@ package com.pch.demo.helper;
 import android.os.SystemClock;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : 防双击判断工具类
  */

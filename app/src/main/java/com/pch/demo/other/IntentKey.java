@@ -1,9 +1,9 @@
 package com.pch.demo.other;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/05/09
+ *    author : 潘成花
+ *
+ *    time   : 2020/05/09
  *    desc   : Intent Key 管理
  */
 public final class IntentKey {

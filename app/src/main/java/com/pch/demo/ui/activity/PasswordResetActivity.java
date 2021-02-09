@@ -18,9 +18,9 @@ import com.hjq.http.EasyHttp;
 import com.hjq.http.listener.HttpCallback;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/02/27
+ *    author : 潘成花
+ *    
+ *    time   : 2020/02/27
  *    desc   : 重置密码
  */
 public final class PasswordResetActivity extends MyActivity {

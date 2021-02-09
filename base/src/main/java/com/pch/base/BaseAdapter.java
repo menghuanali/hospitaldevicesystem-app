@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.pch.base.action.ResourcesAction;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : RecyclerView 适配器基类
  */

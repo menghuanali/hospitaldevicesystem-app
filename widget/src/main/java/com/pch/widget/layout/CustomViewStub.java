@@ -14,9 +14,9 @@ import androidx.annotation.Nullable;
 import com.hjq.widget.R;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/07/06
+ *    author : 潘成花
+ *    
+ *    time   : 2020/07/06
  *    desc   : 自定义 ViewStub（原生 ViewStub 的缺点：继承至 View，不支持 findViewById、动态添加和移除 View、监听显示隐藏）
  */
 public final class CustomViewStub extends FrameLayout {

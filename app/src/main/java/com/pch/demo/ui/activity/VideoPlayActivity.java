@@ -18,8 +18,8 @@ import com.pch.demo.widget.PlayerView;
 import java.io.File;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *
  *    time   : 2020/02/16
  *    desc   : 视频播放界面
  */

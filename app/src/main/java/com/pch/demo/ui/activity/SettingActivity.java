@@ -22,9 +22,9 @@ import com.pch.widget.layout.SettingBar;
 import com.pch.widget.view.SwitchButton;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/03/01
+ *    author : 潘成花
+ *    
+ *    time   : 2020/03/01
  *    desc   : 设置界面
  */
 public final class SettingActivity extends MyActivity

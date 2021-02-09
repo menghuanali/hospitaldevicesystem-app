@@ -19,9 +19,9 @@ import com.rd.PageIndicatorView;
 import java.util.ArrayList;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/03/05
+ *    author : 潘成花
+ *    
+ *    time   : 2020/03/05
  *    desc   : 查看大图
  */
 public final class ImagePreviewActivity extends MyActivity {

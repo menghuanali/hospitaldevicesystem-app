@@ -21,9 +21,9 @@ import com.hjq.toast.ToastUtils;
 import com.pch.widget.view.CountdownView;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/04/20
+ *    author : 潘成花
+ *    
+ *    time   : 2020/04/20
  *    desc   : 设置手机号
  */
 public final class PhoneResetActivity extends MyActivity {

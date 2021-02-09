@@ -31,8 +31,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : 项目界面跳转示例
  */
@@ -135,7 +135,7 @@ public final class MeFragment extends MyFragment<HomeActivity> {
                 });
                 break;
             case R.id.btn_me_video_play:
-                VideoPlayActivity.start(getAttachActivity(), "http://vfx.mtime.cn/Video/2019/06/29/mp4/190629004821240734.mp4", "速度与激情特别行动");
+                VideoPlayActivity.start(getAttachActivity(), "http://vfx.mtime.cn/Video/2020/06/29/mp4/190629004821240734.mp4", "速度与激情特别行动");
                 break;
             case R.id.btn_me_crash:
                 // 关闭 Bugly 异常捕捉

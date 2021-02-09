@@ -15,9 +15,9 @@ import com.pch.demo.R;
 import com.pch.demo.widget.HintLayout;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/12/08
+ *    author : 潘成花
+ *    
+ *    time   : 2020/12/08
  *    desc   : 界面状态提示
  */
 public interface StatusAction {

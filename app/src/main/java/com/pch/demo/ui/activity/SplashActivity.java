@@ -19,8 +19,8 @@ import com.hjq.http.EasyHttp;
 import com.hjq.http.listener.HttpCallback;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : 闪屏界面
  */

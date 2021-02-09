@@ -36,8 +36,8 @@ import com.tencent.bugly.crashreport.CrashReport;
 import okhttp3.OkHttpClient;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : 项目中的 Application 基类
  */
@@ -130,7 +130,7 @@ public final class MyApplication extends Application implements LifecycleOwner {
                 // 添加全局请求参数
                 //.addParam("token", "6666666")
                 // 添加全局请求头
-                //.addHeader("time", "20191030")
+                //.addHeader("time", "20201030")
                 // 启用配置
                 .into();
 

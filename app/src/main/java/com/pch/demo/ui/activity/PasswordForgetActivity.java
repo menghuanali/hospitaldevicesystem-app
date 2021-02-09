@@ -17,9 +17,9 @@ import com.hjq.toast.ToastUtils;
 import com.pch.widget.view.CountdownView;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/02/27
+ *    author : 潘成花
+ *    
+ *    time   : 2020/02/27
  *    desc   : 忘记密码
  */
 public final class PasswordForgetActivity extends MyActivity {

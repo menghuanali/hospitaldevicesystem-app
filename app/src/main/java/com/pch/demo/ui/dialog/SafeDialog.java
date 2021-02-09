@@ -17,8 +17,8 @@ import com.hjq.toast.ToastUtils;
 import com.pch.widget.view.CountdownView;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2020/02/06
  *    desc   : 身份校验对话框
  */

@@ -10,9 +10,9 @@ import com.pch.demo.R;
 import com.pch.demo.common.MyAdapter;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/09/22
+ *    author : 潘成花
+ *
+ *    time   : 2020/09/22
  *    desc   : 状态数据列表
  */
 public final class StatusAdapter extends MyAdapter<String> {

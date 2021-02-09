@@ -21,8 +21,8 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/12/17
  *    desc   : 日期选择对话框
  */
@@ -132,12 +132,12 @@ public final class DateDialog {
         }
 
         public Builder setDate(String date) {
-            // 20190519
+            // 20200519
             if (date.matches("\\d{8}")) {
                 setYear(date.substring(0, 4));
                 setMonth(date.substring(4, 6));
                 setDay(date.substring(6, 8));
-            // 2019-05-19
+            // 2020-05-19
             } else if (date.matches("\\d{4}-\\d{2}-\\d{2}")) {
                 setYear(date.substring(0, 4));
                 setMonth(date.substring(5, 7));

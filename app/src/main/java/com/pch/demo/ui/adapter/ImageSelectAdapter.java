@@ -16,9 +16,9 @@ import com.pch.demo.http.glide.GlideApp;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/07/24
+ *    author : 潘成花
+ *    
+ *    time   : 2020/07/24
  *    desc   : 图片选择适配器
  */
 public final class ImageSelectAdapter extends MyAdapter<String> {

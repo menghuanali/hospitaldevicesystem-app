@@ -40,8 +40,8 @@ import java.util.List;
 import java.util.Set;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2020/03/01
  *    desc   : 选择视频
  */

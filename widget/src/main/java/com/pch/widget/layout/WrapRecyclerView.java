@@ -17,9 +17,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/09/21
+ *    author : 潘成花
+ *
+ *    time   : 2020/09/21
  *    desc   : 支持添加底部和头部的 RecyclerView
  */
 public final class WrapRecyclerView extends RecyclerView {

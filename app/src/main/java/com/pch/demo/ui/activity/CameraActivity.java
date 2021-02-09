@@ -27,9 +27,9 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/12/18
+ *    author : 潘成花
+ *    
+ *    time   : 2020/12/18
  *    desc   : 拍照选择（拍摄图片、视频）
  */
 public final class CameraActivity extends MyActivity {

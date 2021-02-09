@@ -11,9 +11,9 @@ import com.hjq.bar.OnTitleBarListener;
 import com.hjq.bar.TitleBar;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/12/08
+ *    author : 潘成花
+ *    
+ *    time   : 2020/12/08
  *    desc   : 标题栏意图
  */
 public interface TitleBarAction extends OnTitleBarListener {

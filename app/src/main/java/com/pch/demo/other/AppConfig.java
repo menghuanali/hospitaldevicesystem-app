@@ -3,9 +3,9 @@ package com.pch.demo.other;
 import com.pch.demo.BuildConfig;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/09/02
+ *    author : 潘成花
+ *    
+ *    time   : 2020/09/02
  *    desc   : App 配置管理类
  */
 public final class AppConfig {

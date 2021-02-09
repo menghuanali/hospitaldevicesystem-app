@@ -43,9 +43,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/09/16
+ *    author : 潘成花
+ *    
+ *    time   : 2020/09/16
  *    desc   : PopupWindow 基类
  */
 public class BasePopupWindow extends PopupWindow

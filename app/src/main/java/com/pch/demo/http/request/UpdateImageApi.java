@@ -5,9 +5,9 @@ import com.hjq.http.config.IRequestApi;
 import java.io.File;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/12/07
+ *    author : 潘成花
+ *
+ *    time   : 2020/12/07
  *    desc   : 上传图片
  */
 public final class UpdateImageApi implements IRequestApi {

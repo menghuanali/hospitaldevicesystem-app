@@ -20,8 +20,8 @@ import com.pch.demo.widget.PlayerView;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *
  *    time   : 2020/03/01
  *    desc   : 视频选择适配器
  */

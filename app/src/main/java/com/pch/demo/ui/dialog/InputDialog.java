@@ -12,9 +12,9 @@ import com.pch.demo.R;
 import com.pch.demo.aop.SingleClick;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/02/27
+ *    author : 潘成花
+ *    
+ *    time   : 2020/02/27
  *    desc   : 输入对话框
  */
 public final class InputDialog {

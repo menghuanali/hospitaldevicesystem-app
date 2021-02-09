@@ -18,8 +18,8 @@ import com.pch.demo.ui.activity.HomeActivity;
 import com.pch.demo.widget.XCollapsingToolbarLayout;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
+ *    author : 潘成花
+ *    
  *    time   : 2018/10/18
  *    desc   : 项目炫酷效果示例
  */

@@ -14,9 +14,9 @@ import com.pch.base.BaseDialog;
 import com.pch.demo.R;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/09/21
+ *    author : 潘成花
+ *    
+ *    time   : 2020/09/21
  *    desc   : 项目通用 Dialog 布局封装
  */
 public final class UIDialog {

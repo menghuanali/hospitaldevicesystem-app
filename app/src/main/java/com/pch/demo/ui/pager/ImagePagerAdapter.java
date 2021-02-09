@@ -14,9 +14,9 @@ import com.pch.demo.http.glide.GlideApp;
 import java.util.List;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/03/05
+ *    author : 潘成花
+ *    
+ *    time   : 2020/03/05
  *    desc   : 图片加载适配器
  */
 public final class ImagePagerAdapter extends PagerAdapter

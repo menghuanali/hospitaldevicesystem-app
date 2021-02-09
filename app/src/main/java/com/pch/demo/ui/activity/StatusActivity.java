@@ -9,9 +9,9 @@ import com.pch.demo.ui.dialog.MenuDialog;
 import com.pch.demo.widget.HintLayout;
 
 /**
- *    author : Android 轮子哥
- *    github : https://github.com/getActivity/AndroidProject
- *    time   : 2019/04/17
+ *    author : 潘成花
+ *    
+ *    time   : 2020/04/17
  *    desc   : 加载使用案例
  */
 public final class StatusActivity extends MyActivity
