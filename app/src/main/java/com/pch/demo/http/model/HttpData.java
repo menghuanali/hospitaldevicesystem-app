@@ -3,7 +3,7 @@ package com.pch.demo.http.model;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/12/07
+ *    time   : 2020/02/07
  *    desc   : 统一接口数据结构
  */
 public class HttpData<T> {

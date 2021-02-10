@@ -33,7 +33,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 项目界面跳转示例
  */
 public final class MeFragment extends MyFragment<HomeActivity> {

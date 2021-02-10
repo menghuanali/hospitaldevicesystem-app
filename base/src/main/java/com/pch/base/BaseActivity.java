@@ -22,7 +22,7 @@ import java.util.Random;
 /**
  *    author : 潘成花
  *    
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : Activity 基类
  */
 public abstract class BaseActivity extends AppCompatActivity

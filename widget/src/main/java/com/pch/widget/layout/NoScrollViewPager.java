@@ -13,7 +13,7 @@ import androidx.viewpager.widget.ViewPager;
 /**
  *    author : 潘成花
  *
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 禁用水平滑动的ViewPager（一般用于 APP 主页的 ViewPager + Fragment）
  */
 public final class NoScrollViewPager extends ViewPager {

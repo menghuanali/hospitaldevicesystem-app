@@ -13,6 +13,8 @@ import android.widget.ImageView;
 
 import androidx.annotation.Nullable;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.pch.demo.R;
 import com.pch.demo.aop.DebugLog;
 import com.pch.demo.aop.SingleClick;
@@ -34,7 +36,7 @@ import com.pch.umeng.UmengLogin;
 
 /**
  *    author : 潘成花
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 登录界面
  */
 public final class LoginActivity extends MyActivity
@@ -68,6 +70,9 @@ public final class LoginActivity extends MyActivity
     private final float mLogoScale = 0.8f;
     /** 动画时间 */
     private final int mAnimTime = 300;
+
+    Gson gson = new GsonBuilder().setPrettyPrinting().create();
+
 
     @Override
     protected int getLayoutId() {
@@ -152,28 +157,28 @@ public final class LoginActivity extends MyActivity
                 return;
             }
 
-            if (true) {
-                showDialog();
-                postDelayed(() -> {
-                    hideDialog();
-                    startActivity(HomeActivity.class);
-                    finish();
-                }, 2000);
-                return;
-            }
+//            if (true) {
+//                showDialog();
+//                postDelayed(() -> {
+//                    hideDialog();
+//                    startActivity(HomeActivity.class);
+//                    finish();
+//                }, 2000);
+//                return;
+//            }
 
             EasyHttp.post(this)
                     .api(new LoginApi()
                             .setPhone(mPhoneView.getText().toString())
                             .setPassword(mPasswordView.getText().toString()))
-                    .request(new HttpCallback<HttpData<LoginBean>>(this) {
-
+                    .request(new HttpCallback<LoginBean>(this) {
                         @Override
-                        public void onSucceed(HttpData<LoginBean> data) {
+                        public void onSucceed(LoginBean data) {
                             // 更新 Token
+                            System.out.println(gson.toJson(data));
                             EasyConfig.getInstance()
-                                    .addParam("token", data.getData().getToken());
-                            // 跳转到主页
+                                    .addParam("token", data.getToken());
+//                            // 跳转到主页
                             startActivity(HomeActivity.class);
                             finish();
                         }

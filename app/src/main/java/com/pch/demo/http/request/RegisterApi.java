@@ -5,7 +5,7 @@ import com.hjq.http.config.IRequestApi;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/12/07
+ *    time   : 2020/02/07
  *    desc   : 用户注册
  */
 public final class RegisterApi implements IRequestApi {

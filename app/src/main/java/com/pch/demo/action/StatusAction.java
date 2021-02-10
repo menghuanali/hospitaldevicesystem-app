@@ -17,7 +17,7 @@ import com.pch.demo.widget.HintLayout;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/12/08
+ *    time   : 2020/02/08
  *    desc   : 界面状态提示
  */
 public interface StatusAction {

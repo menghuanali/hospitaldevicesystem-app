@@ -4,24 +4,23 @@ import com.hjq.http.config.IRequestApi;
 
 /**
  *    author : 潘成花
- *
- *    time   : 2020/12/07
+ *    time   : 2020/02/07
  *    desc   : 用户登录
  */
 public final class LoginApi implements IRequestApi {
 
     @Override
     public String getApi() {
-        return "user/login";
+        return "auth/loginapp";
     }
 
     /** 手机号 */
-    private String phone;
+    private String tel;
     /** 登录密码 */
     private String password;
 
     public LoginApi setPhone(String phone) {
-        this.phone = phone;
+        this.tel = phone;
         return this;
     }
 

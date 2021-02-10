@@ -24,7 +24,7 @@ import com.pch.widget.view.CountdownView;
 /**
  *    author : 潘成花
  *
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 注册界面
  */
 public final class RegisterActivity extends MyActivity {

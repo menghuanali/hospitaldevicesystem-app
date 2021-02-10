@@ -20,7 +20,7 @@ import com.pch.demo.widget.XCollapsingToolbarLayout;
 /**
  *    author : 潘成花
  *    
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 项目炫酷效果示例
  */
 public final class HomeFragment extends MyFragment<HomeActivity>

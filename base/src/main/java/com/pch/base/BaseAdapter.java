@@ -16,7 +16,7 @@ import com.pch.base.action.ResourcesAction;
 /**
  *    author : 潘成花
  *    
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : RecyclerView 适配器基类
  */
 public abstract class BaseAdapter<VH extends BaseAdapter.ViewHolder>

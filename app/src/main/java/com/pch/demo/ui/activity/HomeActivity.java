@@ -23,7 +23,7 @@ import com.pch.demo.ui.fragment.MessageFragment;
 /**
  *    author : 潘成花
  *    
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 主页界面
  */
 public final class HomeActivity extends MyActivity

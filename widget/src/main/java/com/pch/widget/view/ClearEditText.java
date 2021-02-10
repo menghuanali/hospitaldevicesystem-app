@@ -18,7 +18,7 @@ import java.util.Objects;
 
 /**
  *    author : 潘成花
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 带清除按钮的 EditText
  */
 public final class ClearEditText extends RegexEditText

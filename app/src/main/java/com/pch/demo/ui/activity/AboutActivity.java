@@ -6,7 +6,7 @@ import com.pch.demo.common.MyActivity;
 /**
  *    author : 潘成花
  *    
- *    time   : 2018/10/18
+ *    time   : 2020/10/18
  *    desc   : 关于界面
  */
 public final class AboutActivity extends MyActivity {

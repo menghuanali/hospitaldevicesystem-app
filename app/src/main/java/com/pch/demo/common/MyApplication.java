@@ -37,8 +37,7 @@ import okhttp3.OkHttpClient;
 
 /**
  *    author : 潘成花
- *    
- *    time   : 2018/10/18
+ *    time   : 2021/02/18
  *    desc   : 项目中的 Application 基类
  */
 public final class MyApplication extends Application implements LifecycleOwner {
@@ -131,6 +130,7 @@ public final class MyApplication extends Application implements LifecycleOwner {
                 //.addParam("token", "6666666")
                 // 添加全局请求头
                 //.addHeader("time", "20201030")
+//                .addHeader("Content-Type", "application/json; charset=utf-8")
                 // 启用配置
                 .into();
 
