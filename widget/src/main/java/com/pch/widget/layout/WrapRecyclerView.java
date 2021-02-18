@@ -19,7 +19,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/09/21
+ *    time   : 2021/09/21
  *    desc   : 支持添加底部和头部的 RecyclerView
  */
 public final class WrapRecyclerView extends RecyclerView {

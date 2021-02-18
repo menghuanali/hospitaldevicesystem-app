@@ -17,7 +17,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/12/19
+ *    time   : 2021/12/19
  *    desc   : 项目中 RecyclerView 适配器基类
  */
 public abstract class MyAdapter<T> extends BaseAdapter<BaseAdapter.ViewHolder> {

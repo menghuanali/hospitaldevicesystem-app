@@ -13,7 +13,7 @@ import com.hjq.bar.TitleBar;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/08
+ *    time   : 2021/02/08
  *    desc   : 标题栏意图
  */
 public interface TitleBarAction extends OnTitleBarListener {

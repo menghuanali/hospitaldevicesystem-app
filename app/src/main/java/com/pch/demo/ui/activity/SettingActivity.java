@@ -24,7 +24,7 @@ import com.pch.widget.view.SwitchButton;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/03/01
+ *    time   : 2021/03/01
  *    desc   : 设置界面
  */
 public final class SettingActivity extends MyActivity

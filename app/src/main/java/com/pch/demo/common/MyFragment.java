@@ -18,7 +18,7 @@ import okhttp3.Call;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 项目中 Fragment 懒加载基类
  */
 public abstract class MyFragment<A extends MyActivity> extends BaseFragment<A>

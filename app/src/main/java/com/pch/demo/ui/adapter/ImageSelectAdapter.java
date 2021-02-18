@@ -18,7 +18,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/07/24
+ *    time   : 2021/07/24
  *    desc   : 图片选择适配器
  */
 public final class ImageSelectAdapter extends MyAdapter<String> {

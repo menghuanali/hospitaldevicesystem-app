@@ -45,7 +45,7 @@ import java.util.regex.Pattern;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/06/27
+ *    time   : 2021/06/27
  *    desc   : 崩溃捕捉界面
  */
 public final class CrashActivity extends MyActivity {

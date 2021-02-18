@@ -7,7 +7,7 @@ import java.io.File;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/02/07
+ *    time   : 2021/02/07
  *    desc   : 上传图片
  */
 public final class UpdateImageApi implements IRequestApi {

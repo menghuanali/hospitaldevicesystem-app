@@ -23,7 +23,7 @@ import com.pch.demo.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/04/18
+ *    time   : 2021/04/18
  *    desc   : 状态布局（网络错误，异常错误，空数据）
  */
 public final class HintLayout extends FrameLayout {

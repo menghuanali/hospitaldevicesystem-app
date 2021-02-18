@@ -13,7 +13,7 @@ import com.rd.PageIndicatorView;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/09/21
+ *    time   : 2021/09/21
  *    desc   : APP 引导页
  */
 public final class GuideActivity extends MyActivity

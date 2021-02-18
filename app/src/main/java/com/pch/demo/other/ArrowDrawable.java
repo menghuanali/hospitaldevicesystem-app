@@ -23,7 +23,7 @@ import androidx.annotation.Nullable;
 /**
  *    author : 王浩 & 潘成花
  *    github : https://github.com/bingoogolapple/BGATransformersTip-Android
- *    time   : 2020/08/19
+ *    time   : 2021/08/19
  *    desc   : 带箭头背景的 Drawable
  */
 @SuppressLint("RtlHardcoded")

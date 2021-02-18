@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/04/03
+ *    time   : 2021/04/03
  *    desc   : 友盟第三方登录
  */
 public final class UmengLogin {

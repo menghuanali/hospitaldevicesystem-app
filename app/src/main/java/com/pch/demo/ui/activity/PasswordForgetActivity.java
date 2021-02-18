@@ -19,7 +19,7 @@ import com.pch.widget.view.CountdownView;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/27
+ *    time   : 2021/02/27
  *    desc   : 忘记密码
  */
 public final class PasswordForgetActivity extends MyActivity {

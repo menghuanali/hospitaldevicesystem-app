@@ -39,7 +39,7 @@ import static androidx.viewpager.widget.ViewPager.SCROLL_STATE_SETTLING;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/12
+ *    time   : 2021/02/12
  *    desc   : 省市区选择对话框
  *    doc    : https://baijiahao.baidu.com/s?id=1615894776741007967
  */

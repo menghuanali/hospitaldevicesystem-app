@@ -20,7 +20,7 @@ import java.io.File;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/02/16
+ *    time   : 2021/02/16
  *    desc   : 视频播放界面
  */
 public final class VideoPlayActivity extends MyActivity

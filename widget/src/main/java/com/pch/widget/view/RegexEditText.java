@@ -16,7 +16,7 @@ import java.util.regex.Pattern;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/06/29
+ *    time   : 2021/06/29
  *    desc   : 正则输入限制编辑框
  */
 public class RegexEditText extends AppCompatEditText implements InputFilter {

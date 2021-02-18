@@ -11,8 +11,7 @@ import com.pch.demo.common.MyAdapter;
 
 /**
  *    author : 潘成花
- *
- *    time   : 2020/09/22
+ *    time   : 2021/02/22
  *    desc   : 状态数据列表
  */
 public final class StatusAdapter extends MyAdapter<String> {

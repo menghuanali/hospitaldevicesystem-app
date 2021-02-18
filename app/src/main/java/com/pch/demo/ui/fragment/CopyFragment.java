@@ -6,8 +6,7 @@ import com.pch.demo.ui.activity.CopyActivity;
 
 /**
  *    author : 潘成花
- *
- *    time   : 2020/10/18
+ *    time   : 2021/02/18
  *    desc   : 可进行拷贝的副本
  */
 public final class CopyFragment extends MyFragment<CopyActivity> {

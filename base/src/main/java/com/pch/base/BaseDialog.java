@@ -51,7 +51,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/11/24
+ *    time   : 2021/11/24
  *    desc   : Dialog 基类
  */
 public class BaseDialog extends AppCompatDialog implements LifecycleOwner,

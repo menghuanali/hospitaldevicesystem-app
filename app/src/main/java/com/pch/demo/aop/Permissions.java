@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/02/06
+ *    time   : 2021/02/06
  *    desc   : 权限申请注解
  */
 @Retention(RetentionPolicy.RUNTIME)

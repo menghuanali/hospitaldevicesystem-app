@@ -38,7 +38,7 @@ import java.util.Set;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/07/24
+ *    time   : 2021/07/24
  *    desc   : 选择图片
  */
 public final class ImageSelectActivity extends MyActivity

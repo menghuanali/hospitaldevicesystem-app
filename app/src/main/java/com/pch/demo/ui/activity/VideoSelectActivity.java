@@ -42,7 +42,7 @@ import java.util.Set;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/03/01
+ *    time   : 2021/03/01
  *    desc   : 选择视频
  */
 public final class VideoSelectActivity extends MyActivity

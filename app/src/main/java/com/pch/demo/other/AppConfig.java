@@ -5,7 +5,7 @@ import com.pch.demo.BuildConfig;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/09/02
+ *    time   : 2021/09/02
  *    desc   : App 配置管理类
  */
 public final class AppConfig {

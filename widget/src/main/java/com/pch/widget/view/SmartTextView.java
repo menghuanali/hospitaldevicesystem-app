@@ -11,7 +11,7 @@ import androidx.appcompat.widget.AppCompatTextView;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/08/18
+ *    time   : 2021/08/18
  *    desc   : 智能显示的 TextView
  */
 public final class SmartTextView extends AppCompatTextView implements TextWatcher {

@@ -15,28 +15,27 @@ import androidx.annotation.Nullable;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.hjq.http.EasyConfig;
+import com.hjq.http.EasyHttp;
+import com.hjq.http.listener.HttpCallback;
 import com.pch.demo.R;
 import com.pch.demo.aop.DebugLog;
 import com.pch.demo.aop.SingleClick;
 import com.pch.demo.common.MyActivity;
 import com.pch.demo.helper.InputTextHelper;
 import com.pch.demo.http.glide.GlideApp;
-import com.pch.demo.http.model.HttpData;
 import com.pch.demo.http.request.LoginApi;
 import com.pch.demo.http.response.LoginBean;
 import com.pch.demo.other.IntentKey;
 import com.pch.demo.other.KeyboardWatcher;
 import com.pch.demo.wxapi.WXEntryActivity;
-import com.hjq.http.EasyConfig;
-import com.hjq.http.EasyHttp;
-import com.hjq.http.listener.HttpCallback;
 import com.pch.umeng.Platform;
 import com.pch.umeng.UmengClient;
 import com.pch.umeng.UmengLogin;
 
 /**
  *    author : 潘成花
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 登录界面
  */
 public final class LoginActivity extends MyActivity

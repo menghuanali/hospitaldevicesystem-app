@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/12/2
+ *    time   : 2021/12/2
  *    desc   : 密码遮挡自定义控件
  */
 public final class PasswordView extends View {

@@ -12,7 +12,7 @@ import com.pch.demo.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/12/2
+ *    time   : 2021/12/2
  *    desc   : 等待加载对话框
  */
 public final class WaitDialog {

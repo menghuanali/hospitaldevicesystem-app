@@ -38,7 +38,7 @@ import java.util.Locale;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/16
+ *    time   : 2021/02/16
  *    desc   : 视频播放控件
  */
 public final class PlayerView extends SimpleLayout

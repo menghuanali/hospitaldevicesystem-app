@@ -5,7 +5,7 @@ import android.os.SystemClock;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 防双击判断工具类
  */
 public final class DoubleClickHelper {

@@ -29,7 +29,7 @@ import java.util.Locale;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/18
+ *    time   : 2021/02/18
  *    desc   : 拍照选择（拍摄图片、视频）
  */
 public final class CameraActivity extends MyActivity {

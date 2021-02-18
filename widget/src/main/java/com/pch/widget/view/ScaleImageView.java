@@ -11,7 +11,7 @@ import com.hjq.widget.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/08/02
+ *    time   : 2021/08/02
  *    desc   : 长按缩放松手恢复的 ImageView
  */
 public final class ScaleImageView extends AppCompatImageView {

@@ -13,7 +13,7 @@ import com.hjq.widget.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/08/23
+ *    time   : 2021/08/23
  *    desc   : 按照比例显示的 FrameLayout
  */
 public final class RatioFrameLayout extends FrameLayout {

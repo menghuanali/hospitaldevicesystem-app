@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 /**
  *    author : 钉某人 & 潘成花
  *    github : https://github.com/DingMouRen/LayoutManagerGroup
- *    time   : 2020/09/11
+ *    time   : 2021/09/11
  *    desc   : 选择器布局管理器
  */
 public class PickerLayoutManager extends LinearLayoutManager {

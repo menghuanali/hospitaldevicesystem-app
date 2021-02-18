@@ -16,14 +16,14 @@ import com.pch.demo.helper.ActivityStackManager;
 import com.pch.demo.helper.DoubleClickHelper;
 import com.pch.demo.other.KeyboardWatcher;
 import com.pch.demo.ui.fragment.FindFragment;
-import com.pch.demo.ui.fragment.HomeFragment;
 import com.pch.demo.ui.fragment.MeFragment;
 import com.pch.demo.ui.fragment.MessageFragment;
+import com.pch.demo.ui.fragment.PchHomeFragment;
 
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 主页界面
  */
 public final class HomeActivity extends MyActivity
@@ -56,7 +56,7 @@ public final class HomeActivity extends MyActivity
     @Override
     protected void initData() {
         mPagerAdapter = new BaseFragmentAdapter<>(this);
-        mPagerAdapter.addFragment(HomeFragment.newInstance());
+        mPagerAdapter.addFragment(PchHomeFragment.newInstance());
         mPagerAdapter.addFragment(FindFragment.newInstance());
         mPagerAdapter.addFragment(MessageFragment.newInstance());
         mPagerAdapter.addFragment(MeFragment.newInstance());

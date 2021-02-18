@@ -26,7 +26,7 @@ import com.hjq.widget.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/01/23
+ *    time   : 2021/01/23
  *    desc   : 设置条自定义控件
  */
 public final class SettingBar extends FrameLayout {

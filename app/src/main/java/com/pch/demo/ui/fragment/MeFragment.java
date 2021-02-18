@@ -33,7 +33,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 项目界面跳转示例
  */
 public final class MeFragment extends MyFragment<HomeActivity> {
@@ -135,7 +135,7 @@ public final class MeFragment extends MyFragment<HomeActivity> {
                 });
                 break;
             case R.id.btn_me_video_play:
-                VideoPlayActivity.start(getAttachActivity(), "http://vfx.mtime.cn/Video/2020/06/29/mp4/190629004821240734.mp4", "速度与激情特别行动");
+                VideoPlayActivity.start(getAttachActivity(), "http://vfx.mtime.cn/Video/2021/06/29/mp4/190629004821240734.mp4", "速度与激情特别行动");
                 break;
             case R.id.btn_me_crash:
                 // 关闭 Bugly 异常捕捉

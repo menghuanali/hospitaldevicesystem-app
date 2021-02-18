@@ -14,7 +14,7 @@ import java.lang.ref.SoftReference;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/04/03
+ *    time   : 2021/04/03
  *    desc   : 友盟第三方分享
  */
 public final class UmengShare {

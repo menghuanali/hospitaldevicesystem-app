@@ -20,7 +20,7 @@ import com.hjq.http.listener.HttpCallback;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/27
+ *    time   : 2021/02/27
  *    desc   : 重置密码
  */
 public final class PasswordResetActivity extends MyActivity {

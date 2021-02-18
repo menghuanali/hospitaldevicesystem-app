@@ -22,7 +22,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/03/01
+ *    time   : 2021/03/01
  *    desc   : 视频选择适配器
  */
 public final class VideoSelectAdapter extends MyAdapter<VideoSelectActivity.VideoBean> {

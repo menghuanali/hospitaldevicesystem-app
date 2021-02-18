@@ -10,8 +10,7 @@ import com.pch.demo.common.MyAdapter;
 
 /**
  *    author : 潘成花
- *    
- *    time   : 2020/11/05
+ *    time   : 2021/02/05
  *    desc   : 可进行拷贝的副本
  */
 public final class CopyAdapter extends MyAdapter<String> {

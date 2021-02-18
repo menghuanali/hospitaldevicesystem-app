@@ -25,7 +25,7 @@ import com.hjq.widget.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/20
+ *    time   : 2021/02/20
  *    desc   : 高仿 ios 开关按钮
  */
 public final class SwitchButton extends View {

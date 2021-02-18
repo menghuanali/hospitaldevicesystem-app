@@ -25,7 +25,7 @@ import java.util.Random;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : Fragment 基类
  */
 public abstract class BaseFragment<A extends BaseActivity> extends Fragment implements

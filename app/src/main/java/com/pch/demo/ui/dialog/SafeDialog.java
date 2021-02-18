@@ -19,7 +19,7 @@ import com.pch.widget.view.CountdownView;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/02/06
+ *    time   : 2021/02/06
  *    desc   : 身份校验对话框
  */
 public final class SafeDialog {

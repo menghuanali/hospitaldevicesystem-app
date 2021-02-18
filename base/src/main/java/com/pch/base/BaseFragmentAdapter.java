@@ -16,7 +16,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : FragmentPagerAdapter 基类
  */
 public class BaseFragmentAdapter<F extends BaseFragment> extends FragmentPagerAdapter {

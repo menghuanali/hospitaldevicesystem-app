@@ -24,7 +24,7 @@ import java.io.InputStream;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/02/15
+ *    time   : 2021/02/15
  *    desc   : Glide 全局配置
  */
 @GlideModule

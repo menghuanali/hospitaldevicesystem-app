@@ -16,7 +16,7 @@ import com.pch.demo.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/09/21
+ *    time   : 2021/09/21
  *    desc   : 项目通用 Dialog 布局封装
  */
 public final class UIDialog {

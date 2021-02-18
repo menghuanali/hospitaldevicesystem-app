@@ -24,7 +24,7 @@ import java.util.LinkedList;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/12/2
+ *    time   : 2021/12/2
  *    desc   : 支付密码对话框
  */
 public final class PayPasswordDialog {

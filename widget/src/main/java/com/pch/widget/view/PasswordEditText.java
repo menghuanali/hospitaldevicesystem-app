@@ -20,7 +20,7 @@ import com.hjq.widget.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/08/25
+ *    time   : 2021/08/25
  *    desc   : 密码隐藏显示 EditText
  */
 public final class PasswordEditText extends RegexEditText

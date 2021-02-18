@@ -21,7 +21,7 @@ import java.util.ArrayList;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/03/05
+ *    time   : 2021/03/05
  *    desc   : 查看大图
  */
 public final class ImagePreviewActivity extends MyActivity {

@@ -9,7 +9,7 @@ import com.pch.demo.ui.activity.CrashActivity;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/02/03
+ *    time   : 2021/02/03
  *    desc   : Crash 处理类
  */
 public final class CrashHandler implements Thread.UncaughtExceptionHandler {

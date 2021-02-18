@@ -38,7 +38,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/12/02
+ *    time   : 2021/12/02
  *    desc   : 对话框使用案例
  */
 public final class DialogActivity extends MyActivity {

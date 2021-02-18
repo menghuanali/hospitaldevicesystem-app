@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/07/25
+ *    time   : 2021/07/25
  *    desc   : 图片选择列表分割线
  */
 public final class GridSpaceDecoration extends RecyclerView.ItemDecoration {

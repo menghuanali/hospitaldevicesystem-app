@@ -25,7 +25,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/09
+ *    time   : 2021/10/09
  *    desc   : 单选或者多选对话框
  */
 public final class SelectDialog {

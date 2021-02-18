@@ -10,7 +10,7 @@ import androidx.appcompat.widget.AppCompatTextView;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 验证码倒计时
  */
 public final class CountdownView extends AppCompatTextView implements Runnable {

@@ -13,7 +13,7 @@ import com.pch.demo.aop.SingleClick;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/12/2
+ *    time   : 2021/12/2
  *    desc   : 消息对话框
  */
 public final class MessageDialog {

@@ -5,7 +5,7 @@ import com.hjq.base.R;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/09/21
+ *    time   : 2021/09/21
  *    desc   : 动画样式
  */
 public interface AnimAction {

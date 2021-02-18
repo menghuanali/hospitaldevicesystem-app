@@ -22,7 +22,7 @@ import com.pch.demo.R;
 /**
  *    author : Todd-Davies
  *    github : https://github.com/Todd-Davies/ProgressWheel
- *    time   : 2020/07/13
+ *    time   : 2021/07/13
  *    desc   : 进度条控件
  */
 public final class ProgressView extends View {

@@ -41,7 +41,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/09/24
+ *    time   : 2021/09/24
  *    desc   : 基于 WebView 封装
  */
 public final class BrowserView extends WebView implements ActivityAction {

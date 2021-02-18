@@ -26,7 +26,7 @@ import com.scwang.smartrefresh.layout.listener.OnRefreshListener;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 浏览器界面
  */
 public final class BrowserActivity extends MyActivity

@@ -8,7 +8,7 @@ import com.google.android.material.appbar.CollapsingToolbarLayout;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 支持监听渐变的 CollapsingToolbarLayout
  */
 public final class XCollapsingToolbarLayout extends CollapsingToolbarLayout {

@@ -11,7 +11,7 @@ import androidx.collection.ArrayMap;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/11/18
+ *    time   : 2021/11/18
  *    desc   : Activity 栈管理
  */
 public final class ActivityStackManager implements Application.ActivityLifecycleCallbacks {

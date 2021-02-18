@@ -30,7 +30,7 @@ import okhttp3.Call;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/03/20
+ *    time   : 2021/03/20
  *    desc   : 升级对话框
  */
 public final class UpdateDialog {

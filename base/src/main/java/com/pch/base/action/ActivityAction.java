@@ -8,7 +8,7 @@ import android.content.Intent;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/03/08
+ *    time   : 2021/03/08
  *    desc   : Activity 相关意图
  */
 public interface ActivityAction {

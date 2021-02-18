@@ -7,7 +7,7 @@ import android.view.inputmethod.InputMethodManager;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/10/18
+ *    time   : 2021/10/18
  *    desc   : 软键盘工具类
  */
 public final class KeyboardUtils {

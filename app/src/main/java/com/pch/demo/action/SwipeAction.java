@@ -3,7 +3,7 @@ package com.pch.demo.action;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/02/08
+ *    time   : 2021/02/08
  *    desc   : 侧滑意图
  */
 public interface SwipeAction {

@@ -13,7 +13,7 @@ import com.pch.demo.R;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/09/21
+ *    time   : 2021/09/21
  *    desc   : 引导页适配器
  */
 public final class GuidePagerAdapter extends PagerAdapter {

@@ -9,7 +9,7 @@ import androidx.viewpager.widget.ViewPager;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/05/07
+ *    time   : 2021/05/07
  *    desc   : ViewPager 中使用 PhotoView 时出现 pointerIndex out of range 异常
  */
 public final class PhotoViewPager extends ViewPager {

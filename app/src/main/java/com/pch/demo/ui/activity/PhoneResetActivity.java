@@ -23,7 +23,7 @@ import com.pch.widget.view.CountdownView;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/04/20
+ *    time   : 2021/04/20
  *    desc   : 设置手机号
  */
 public final class PhoneResetActivity extends MyActivity {

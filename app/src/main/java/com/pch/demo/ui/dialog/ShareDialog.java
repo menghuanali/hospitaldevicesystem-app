@@ -29,7 +29,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *
- *    time   : 2020/03/23
+ *    time   : 2021/03/23
  *    desc   : 分享对话框
  */
 public final class ShareDialog {

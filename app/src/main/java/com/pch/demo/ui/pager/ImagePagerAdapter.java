@@ -16,7 +16,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    
- *    time   : 2020/03/05
+ *    time   : 2021/03/05
  *    desc   : 图片加载适配器
  */
 public final class ImagePagerAdapter extends PagerAdapter

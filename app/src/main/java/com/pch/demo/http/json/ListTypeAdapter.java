@@ -14,7 +14,7 @@ import java.util.List;
 /**
  *    author : 潘成花
  *    github : https://github.com/getActivity/EasyHttp
- *    time   : 2020/05/05
+ *    time   : 2021/05/05
  *    desc   : List 类型解析适配器
  */
 public class ListTypeAdapter implements JsonDeserializer<List> {
